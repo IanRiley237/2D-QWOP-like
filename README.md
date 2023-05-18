@@ -8,9 +8,7 @@ Inspired by the games by Bennete Foddy, I wanted to create a kind of game that w
 For now, there is no real goal in the game. It is just a proof of concept.
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="game.png" alt="Game Image">
-  </a>
 </div>
 
 ## Controls
